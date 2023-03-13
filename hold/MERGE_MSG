@@ -1,0 +1,31 @@
+Merge remote-tracking branch 'upstream/gh-pages-al' into dev
+
+# By NewGraphEnvironment (19) and others
+# Via NewGraphEnvironment
+* upstream/gh-pages-al: (22 commits)
+  remove coord try
+  wrap coords with html
+  lat long shift
+  tst mouse coords
+  test rechecking ch_co_sk to see if stream info changes.  test adding mouse coords
+  change visibility for sat imagery line 89
+  test removing topo
+  check all radio button vs ch_co_sk
+  test MapServer/3/tile
+  test remove topo
+  test shaded relief
+  add salmon accessibility to stream table and popup
+  test stream popup
+  rm wct and pk radio buttons
+  add columns to streams
+  customize crossings and streams popup tables (hopefully)
+  push back to original
+  test custom dropdown
+  add the app as a docs dir
+  Update documentation
+  ...
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
